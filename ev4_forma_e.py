@@ -83,3 +83,6 @@ while True:
             print("")
         case 5:
             mostrar_tareas(tareas)
+
+
+#trate de hacer lo posible profe 
